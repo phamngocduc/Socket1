@@ -2,7 +2,7 @@ django
 gunicorn
 django-heroku
 Flask==1.0.3
-Flask-Sockets==4.1.0
+Flask-SocketIO==4.1.0
 gevent==1.0.2
 gevent-websocket==0.9.5
 greenlet==0.4.9
