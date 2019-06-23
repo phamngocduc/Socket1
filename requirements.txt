@@ -1,3 +1,16 @@
 django
 gunicorn
 django-heroku
+Flask==1.0.3
+Flask-Sockets==4.1.0
+gevent==1.0.2
+gevent-websocket==0.9.5
+greenlet==0.4.9
+gunicorn==19.4.5
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==0.23
+redis==2.10.5
+Werkzeug==0.15.4
+googletrans==2.4.0
+
